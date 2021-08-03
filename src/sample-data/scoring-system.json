@@ -1,0 +1,14 @@
+{
+  "id": "score123",
+  "minScore": 1,
+  "maxScore": 7,
+  "scoreLabels": [
+    "Terrible",
+    "Bad",
+    "Not Good",
+    "Average",
+    "Good",
+    "Great",
+    "Masterpiece"
+  ]
+}
